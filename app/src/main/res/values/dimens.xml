@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="card_image_width">300dp</dimen>
+    <dimen name="card_image_height">130dp</dimen>
+
+    <dimen name="card_icon_size">16dp</dimen>
+
+    <dimen name="card_title">24sp</dimen>
+    <dimen name="card_subtitle">16sp</dimen>
+    <dimen name="card_icon_description">12sp</dimen>
+</resources>

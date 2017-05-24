@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RecyclerViewExample</string>
+
+    <string name="card_title">Generic title</string>
+    <string name="card_subtitle">Pretty generic subtitle</string>
+
+    <string name="card_icon">"icon -&gt;</string>
+</resources>
